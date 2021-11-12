@@ -1,8 +1,13 @@
 [map "7ced867c-d13b-37f7-88e1-9cb6305d74ca"]
 	object = 17b75e94969f7b4f5e59d0c14e4e4c172d7f98fe
 	type = include + expand tree
-[map "c3f27753-e302-33bd-b728-078ab6cf0a0d"]
-	object = 3866874ab1de0db546b03895843b7c19cede23ad
+[map "ba504708-cb74-36fc-9219-7a10fcc41b56"]
+	object = f6e2bbe85b5d480f987a319a02fcd96ee749ae98
+	path = module
+	stage = sync
+	type = expand module
+[map "c356e819-1ea9-3bc3-9a91-2cf17eae3906"]
+	object = 9bbc3f80c56f64357dd30c7030074b10fe185c61
 	path = module
 	stage = sync
 	type = expand module
