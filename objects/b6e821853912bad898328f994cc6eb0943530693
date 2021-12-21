@@ -1,7 +1,3 @@
-[map "096cad83-8f07-3128-97a1-7d7e91615fb6"]
-	object = e7a9fb6ae629167dfa3bf6c8bd7aa28c13b2d0bd
-	path = module
-	type = extract module
 [module "aeed691b-04a2-3155-a183-6fc01c44ba76"]
 	conflict = request-pull
 	path = module
@@ -9,3 +5,12 @@
 	pull = squash never
 	ref = if refs/heads/main sync refs/heads/main
 	url = agnostic://gh/426717136
+[map "60e48954-a551-3a4e-98c5-c2335c74eaf8"]
+	object = 5b100700003cd0fa1d88a31221fc6ef2bac3597b
+	path = module
+	type = extract module
+[map "51624aee-058e-3991-b245-6dcc072d57c1"]
+	object = e7a9fb6ae629167dfa3bf6c8bd7aa28c13b2d0bd
+	path = module
+	stage = pull-request
+	type = extract module
